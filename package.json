@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-codefence",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Add codefence to your gatsby site's markdown",
   "main": "index.js",
   "author": "James Simone <james@sheandjim.com>",

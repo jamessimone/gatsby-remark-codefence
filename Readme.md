@@ -60,3 +60,7 @@ For a full list of the available options that can be used when formatting your C
 ## Contributions
 
 Contributions are welcome!
+
+Many thanks to:
+
+- [Ben Phelps](https://github.com/benphelps), Codefence creator, for fixing several issues found while working on this plugin and contributing high-resolution images to the Readme
