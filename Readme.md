@@ -49,7 +49,7 @@ plugins: [
 
 ## Usage
 
-For a full list of the available options that can be used when formatting your Codefence sections, please refer to [their documentation](https://codefence.io/). At the time of publication, these are the options that you can use when formatting:
+For a full list of the available options that can be used when formatting your Codefence sections, please refer to [their documentation](https://codefence.io/#getting-started). At the time of publication, these are the options that you can use when formatting:
 
 - `lang`: this is determined by the language set on the triple-backtick, at the moment the following languages are supported -- Ada, C/C++, C#, Clojure, Crystal, D, Dart, Elixir, Erlang, Forth, GNU Assembly, Go, Haskell, Java, JavaScript, Kotlin, Lua, Perl, PHP, Python, R, Raku, Ruby, Rust, Scala, Swift, TypeScript, Zig
 - `version`: some of the languages supported have multiple versions that you can specify. Check the Codefence site for the up-to-date list, not all languages have configurable versions
