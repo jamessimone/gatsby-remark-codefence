@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-codefence",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Add codefence to your gatsby site's markdown",
   "main": "index.js",
   "author": "James Simone <james@sheandjim.com>",
@@ -9,11 +9,11 @@
     "unist-util-visit": "2.0.2"
   },
   "devDependencies": {
-    "prettier": "2.0.5"
+    "prettier": "2.3.0"
   },
   "repository": "https://github.com/jamessimone/gatsby-remark-codefence.git",
   "peerDependencies": {
-    "gatsby": ">=2.0.0",
+    "gatsby": "^2.32.0 || ^3.0.0",
     "react": ">= 1.0.0"
   },
   "scripts": {
